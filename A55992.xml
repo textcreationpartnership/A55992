@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A project of peace delivered by the ambassadors, plenipotentiaries of France, to the Baron Lelienroot, Ambassador, plenipotentiary and mediator of Sweden; at the Hague, July 20, N.S. 1697. Done out of the French copy.</title>
+         </titleStmt>
+         <extent>Approx. 33KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55992</idno><idno type="EEBO-CITATION">99829348</idno>
+  <idno type="VID">33785</idno>
+  <idno type="EEBO-PROQUEST">2240869616</idno>
+  
+            <idno type="STC">Wing P3655</idno>
+            <idno type="STC">ESTC R217694</idno>
+            <idno type="PROQUEST">99829348</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829348e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55992)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33785)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1978:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A project of peace delivered by the ambassadors, plenipotentiaries of France, to the Baron Lelienroot, Ambassador, plenipotentiary and mediator of Sweden; at the Hague, July 20, N.S. 1697. Done out of the French copy.</title>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Isaac Cleave, at Sergeants-Inn in Chancery-lane, and sold by R. Baldwin in Warwick-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33785:1"/>
+            <pb facs="tcp:33785:1"/>
+            <p>A PROJECT OF PEACE, Delivered by the Ambassa<g ref="char:EOLhyphen"/>dors, Plenipotentiaries of <hi>France,</hi> to the Baron <hi>Lelienroot,</hi> Ambas<g ref="char:EOLhyphen"/>sador, Plenipotentiary and Me<g ref="char:EOLhyphen"/>diator of <hi>Sweden;</hi> at the <hi>Hague, July</hi> 20. N. S. 1697.</p>
+            <p>
+               <hi>Done out of the</hi> French <hi>Copy.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Isaac Cleave,</hi> at <hi>Sergeants-Inn</hi> in <hi>Chancery-lane,</hi> and sold by <hi>R. Baldwin</hi> in <hi>Warwick-lan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33785:2"/>
+            <pb n="1" facs="tcp:33785:2"/>
+            <head>A PROJECT OF PEACE, Delivered by the Ambassadors, Ple<g ref="char:EOLhyphen"/>nipotentiaries of <hi>France,</hi> to the Baron of <hi>Lelienroot,</hi> Ambassador, Plenipotentiary and Mediator of <hi>Sweden,</hi> at the <hi>Hague, July</hi> 20. N. S. 1697.</head>
+            <p>BE it known to all present and to come, that during the course of this War, the most bloody that <hi>Europe</hi> has been afflict<g ref="char:EOLhyphen"/>ed with a long time since, the Divine Provi<g ref="char:EOLhyphen"/>dence has been pleased to prepare to <hi>Christendom</hi> the end of its Miseries, in preserving an earnest desire of Peace in the Hearts of the most high,
+<pb n="2" facs="tcp:33785:3"/> most excellent, and most powerful Prince, <hi>Leopold</hi> Emperor elect of the <hi>Romans,</hi> always <hi>Augustus,</hi> K<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of <hi>Germany</hi> and <hi>Hungary;</hi> of the mo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igh, most excellent, and most powerful Prince, <hi>Lewis</hi> XIV. by the Grace of God, Most Christian King of <hi>France</hi> and <hi>Navarre;</hi> of the most high, most excellent, and most powerful Prince, <hi>Charles</hi> II. by the Grace of God, Catho<g ref="char:EOLhyphen"/>lick King of <hi>Spain;</hi> and of the Lords States-General; who equally wishing to concur, <hi>bona fide,</hi> and as much as in them lies, to the resto<g ref="char:EOLhyphen"/>ring of the publick Tranquility, and having no other aim than to make it solid and perpetual, by the Equity and Justice of the Conditions of the Treaty to be concluded, their said Majesties, and the said States-General, have unanimously accepted the Mediation of the most high, most excellent, and most powerful Prince, <hi>Charles</hi> XI King of <hi>Sweden, Goths</hi> and <hi>Vandals,</hi> &amp;c. of glo<g ref="char:EOLhyphen"/>rious Memory; but his untimely death having dis<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ointed the hopes <hi>Europe</hi> had justly conceiv'd fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds Advices and good Offices, their said Ma<gap reason="illegible" resp="#murp" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>es and States-General, persisting in this re<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ion, to stop, as soon as possible, the effu<g ref="char:EOLhyphen"/>si<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Christian Blood, have thought that they could not choose a Mediator more acceptable to all the Parties concerned in this War, than in continuing to own, in the same Quality of Me<g ref="char:EOLhyphen"/>diator, the most high, most excellent, and most powerful Prince, <hi>Charles</hi> XII. his Son and Suc<g ref="char:EOLhyphen"/>cessor, who has already taken care to further Pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, between his Imperial Majesty and the Allies on one part, and his Most Christian Ma<g ref="char:EOLhyphen"/>jesty
+<pb n="3" facs="tcp:33785:3"/> on the other, in the Conferences which are actually holding in the Castle of <hi>Reswick,</hi> in the Province of <hi>Holland,</hi> between the Ambassadors and Plenipotentiaries named on both sides, <hi>viz.</hi> From the Emperor, the Lords Count <hi>Caunitz,</hi> &amp;c. Count <hi>Straetman,</hi> &amp;c. and Baron <hi>Zeiler,</hi> &amp;c. From the Most Christian King, the Lords of <hi>Harlay,</hi> &amp;c. Count <hi>Crecy,</hi> &amp;c. and <hi>de Callieres.</hi> From his Catholick Majesty, Don <hi>Bernardo de Quiros,</hi> &amp;c. Count <hi>Tirimont,</hi> &amp;c. And from the States General, the Lords <hi>Boreel,</hi> &amp;c. <hi>Dickvelt,</hi> &amp;c. and Van <hi>Haren,</hi> &amp;c.</p>
+            <p>Who having implor'd the assistance of the most High, and respectively communicated their full Powers, whereof the Copies are <hi>verbatim</hi> an<g ref="char:EOLhyphen"/>nexed to the end of the Treaty, and which have been interchanged by the intervention of the Baron <hi>de Lelienroot,</hi> Ambassador Extraordi<g ref="char:EOLhyphen"/>nary, and Plenipotentiary of <hi>Sweden,</hi> who per<g ref="char:EOLhyphen"/>forms the formalities of Mediator with all the prudence, capacity and equity, requisite for re<g ref="char:EOLhyphen"/>storing a General Tranquility in <hi>Europe,</hi> they have agreed, to the Glory of the Name of God, upon the conditions of Peace, and reciprocal Amity, as follows.</p>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>That there shall be a Christian, Universal and Perpetual Peace, and a true and sincere Friend<g ref="char:EOLhyphen"/>ship between his Imperial Majesty and their Al<g ref="char:EOLhyphen"/>lies on one part, and his most Christian Majesty on the other: their Heirs and Successors, their Kingdoms and Dominions, and chiefly between the Electors, Princes, and States of the Empire,
+<pb n="2" facs="tcp:33785:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:33785:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:33785:5"/> included in this Peace, their Heirs and Successors. This Peace and Amity shall be entertain d and cultivated sincerely and <hi>bona fide,</hi> insomuch that each Party shall procure the Honour, Advantage, and Profit of the other. There will be respe<g ref="char:EOLhyphen"/>ctively on both side<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, a perpetual Oblivion and Indemnity of all Acts of Hostility committed since the beginning of the War, in what place or manner soever it be, for which no enquiry shall be made, by way of Justice or Fact in the Em<g ref="char:EOLhyphen"/>pire, and in the Kingdoms and Dominions of the most Christian King, of the Catholick King, of the States, and of their <hi>Allies,</hi> notwithstand<g ref="char:EOLhyphen"/>ing all Conventions heretofore stipulated; but all Injuries, Violences, Hostilities, Damages and Charges, without any distinction, either in relation to the things themselves, or persons, which have been committed on either side, either by Words, Writings, or Fact, shall be absolutely abolish d, insomuch that all Pretensions on both sides upon that account, shall be bury'd under an eternal oblivion.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>As the Treaties of <hi>Munster</hi> and <hi>Nimeguen</hi> are to be the Basis and foundation of this, and in the manner as they have been link'd together, in that of <hi>Nimeguen,</hi> insomuch that it may be said, that this last contains both the said Treaties, the said Treaty of <hi>Nimeguen</hi> shall be here renewed as if it were inserted <hi>verbatim,</hi> and all the points thereof executed, unless there be any express de<g ref="char:EOLhyphen"/>rogations from the same.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="5" facs="tcp:33785:5"/>
+               <head>III.</head>
+               <p>So that there shall be a full oblivion of all that has been transacted since the present War, and all things shall be restored on both sides, as they were settled by the said Treaty.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>In order thereto, as several Re-unions to the Crown of <hi>France,</hi> of some Territories situated in the Empire have been made by the Chamber of <hi>Metz</hi> and <hi>Bezancon,</hi> and by the sovereign Coun<g ref="char:EOLunhyphen"/>cil of <hi>Brissac</hi> since the Treaty of <hi>Nimeguen,</hi> of which Territories his Majesty has possessed him<g ref="char:EOLhyphen"/>self: His most Christian Majesty consents, that the said Re-unions be made void, notwithstand<g ref="char:EOLhyphen"/>ing the Arrests of the said <hi>Chambers</hi> or Council, and that all things be restored as they were be<g ref="char:EOLhyphen"/>fore the said Re-unions, and as they were left by the said Treaty of <hi>Nimeguen.</hi>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>His most Christian Majesty promises to with<g ref="char:EOLhyphen"/>draw his Forces from all the places and Territo<g ref="char:EOLhyphen"/>ries, they have possessed themselves of in the Em<g ref="char:EOLhyphen"/>pire since this War.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>And whereas the City of <hi>Stras<g ref="char:EOLhyphen"/>burgh,</hi>
+                  <note place="margin">VI. Tho' the City of <hi>Strasburgh</hi> was de<g ref="char:EOLhyphen"/>livered to the Most Christian King by a particular and voluntary Conven<g ref="char:EOLhyphen"/>tion, and that the same has been for<g ref="char:EOLhyphen"/>tify'd by the Arms of his Most Chri<g ref="char:EOLhyphen"/>stian Majesty, yet as the possession of the same has been after the Treaty of <hi>Nimeguen,</hi> which his Majesty is wil<g ref="char:EOLhyphen"/>ling to restore in all its points, his said Majesty con<g ref="char:EOLhyphen"/>sents to withdraw his Forces from the said City, provi<g ref="char:EOLhyphen"/>ded that he shall cause the Fortifi<g ref="char:EOLhyphen"/>cations to be de<g ref="char:EOLhyphen"/>molished; that is to say, those Forti<g ref="char:EOLhyphen"/>cations that have been added by his Orders to the said Town, Citadel, Fort of <hi>Kell,</hi> and other Forts in the Island of it, <hi>Rhine,</hi> and of the <hi>Pile,</hi> insomuch that the For<g ref="char:EOLhyphen"/>tifications of the said place shall be left as they were when it came into the possession of his Majesty, and the same City restored to all its Rights and Privileges as it did enjoy before, as an Imperial City. And whereas the demolishing of such For<g ref="char:EOLhyphen"/>tifications requires no less than eight or ten Months, his Ma<g ref="char:EOLhyphen"/>jesty promises to compleat the said demolishing with all possi<g ref="char:EOLhyphen"/>ble speed, and consents that his Imperial Majesty appoints a Commissioner to be witness thereof. His said Majesty shall keep in the said City, Citadel and Forts of <hi>Strasburgh,</hi> a suffi<g ref="char:EOLhyphen"/>cient number of Forces to demolish the said Fortifications.</note> by a particular and sepa<g ref="char:EOLhyphen"/>rate Convention and Agreement, surrender'd it self to the Most Christian King in the year 1681, and that the same was yielded to the Crown of <hi>France</hi> till the ex<g ref="char:EOLhyphen"/>piration of the Truce concluded in 1684. the Emperor, and the
+<pb n="6" facs="tcp:33785:6"/> Most Christian King, for the common conveniency of their Frontiers, have agreed on this point as follows The Emperor, for him, his Successors, and the Empire, shall renounce, for ever, all pretensions of Soveraignty on the said Town of <hi>Strasburgh,</hi> and shall likewise for him, his Suc<g ref="char:EOLhyphen"/>cessor, and the Empire, yield unto the King and Crown of <hi>France,</hi> the said Town of <hi>Stras<g ref="char:EOLhyphen"/>burgh,</hi> with all its Dependencies to be enjoyed by the said King and Crown, with a full Right of Property and Soveraignty, without any molestation or di<g ref="char:EOLhyphen"/>sturbance, upon any pretence whatsoever.</p>
+               <p>In lieu and exchange of the said City of <hi>Stras<g ref="char:EOLhyphen"/>burgh,</hi> &amp;c. his Most Christian Majesty will yield unto his Imperial Majesty the City and Castle of <hi>Friburg,</hi> in the condition they are now, with the
+<pb n="6" facs="tcp:33785:6"/> Villages of <hi>Zhen, Metz, Ausen,</hi> and <hi>Kirckzart,</hi> with all those Rights of Soveraignty that were yielded unto <hi>France</hi> by his Imperial Majesty, by the 8th Article of the Treaty of <hi>Nimeguen.</hi>
+               </p>
+               <p>Furthermore, his Majesty is also pleased to yield unto the Emperor the Town of <hi>Briss<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> si<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uated on the other side of the <hi>Rhine,</hi> in the con<g ref="char:EOLhyphen"/>dition it is now, with all its dependencies, ex<g ref="char:EOLhyphen"/>cepting those few Villages of the <hi>Brisgow,</hi> which are on this side of the <hi>Rhine;</hi> and that the said River may divide that place from the Territo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ies belonging to his Majesty, it is he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eby stipu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ated, that the new Town of <hi>Brissac,</hi> and the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ort of the Island, as also the new Bridge, shall <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e demolished to be never restored again, but <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hat the Fort called the <hi>Mortar,</hi> on this side the <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hine,</hi> shall remain in the hands of his Most Christian Majesty.</p>
+               <p>His Majesty promises likewise to cause the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ortifications of <hi>Hunninghen,</hi> on the other side of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e <hi>Rhine,</hi> the <hi>Horn</hi> of the Island, and the Bridge, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o be demolished.</p>
+               <p>His Majesty agrees also to restore to the Em<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eror and the Empire, the Fort of <hi>Kell,</hi> situated <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t the end of the Bridge of <hi>Strasburgh,</hi> and to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ause those of the <hi>Pile,</hi> and the Island, to be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>emolished, reserving to himself the said Town <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f <hi>Strasburgh,</hi> and the Redoubt on this side the <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hine.</hi>
+               </p>
+               <p>The <hi>Horn</hi> of the Marquisate of <hi>Fort Louis</hi> on <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e <hi>Rhine,</hi> and all other works that are on the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>her side of that River shall be demolished; as so that part of the Bridge whereby there may
+<pb n="6" facs="tcp:33785:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:33785:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:33785:8"/> be a communication between that <hi>Horn</hi> and the <hi>German</hi> side of the <hi>Rhine.</hi>
+               </p>
+               <p>The Most Christian King does likewise ob<g ref="char:EOLhyphen"/>lige himself to restore to the Emperor, the Town of <hi>Phillipsburg,</hi> of which he has possessed himself during this War, but that the Frontiers of <hi>France</hi> and of the Empire, may be divided by the <hi>Rhine,</hi> the Bridge of <hi>Phillipsburg</hi> and the Fort at the end of it shall be razed.</p>
+               <p>Whereas the Treaty of <hi>Nimeguen</hi> has settled the Conditions upon which the Dutchy of <hi>Lor<g ref="char:EOLhyphen"/>rain</hi> was to be restored to the Duke of that Name, and that his Son, the present Duke, be<g ref="char:EOLhyphen"/>ing supported with the recommendation of his Imperial Majesty, has desired his Most Christian Majesty to grant him new and more favourable Conditions. His Majesty, in consideration of the recommendation of the Emperor, and by a motive of the Kindness and Affection he has for the Duke of <hi>Lorrain,</hi> is pleased to wave the Con<g ref="char:EOLhyphen"/>ditions stipulated by the Treaty of <hi>Nimeguen,</hi> and to restore the Duke of <hi>Lorrain</hi> into the possession of his Dominions, as they were possessed by his Grand Unkle in the year 1670, that is to say in the following manner.</p>
+               <p>His Majesty will restore unto him the old and new Town of <hi>Nancy,</hi> provided that the new For<g ref="char:EOLhyphen"/>tifications of the <hi>New,</hi> be entirely demolished, never to be fortified again; that the Bastions and Curtins of the <hi>Old</hi> Town shall remain in the condition they are now, but that the Out-works and Half-moons shall be razed; that the Gates of the New Town shall remain as they are, and
+<pb n="8" facs="tcp:33785:8"/> that it shall be free for the Duke of <hi>Lorrain</hi> to in<g ref="char:EOLhyphen"/>compass the said New Town with a single Wall without any Terrass; that the Highways grant<g ref="char:EOLhyphen"/>ed by the said Treaty, the Soveraignty whereof belonged to his Most Christian Majesty, for the passage of his Forces from <hi>St. Disier</hi> to <hi>Nancy,</hi> from <hi>Nancy</hi> into <hi>Alsace,</hi> from <hi>Nancy</hi> to <hi>Ve<g ref="char:EOLhyphen"/>zon,</hi> and from <hi>Nancy</hi> to <hi>Metz,</hi> shall now be re<g ref="char:EOLhyphen"/>stored to the Duke of <hi>Lorrain,</hi> his Majesty re<g ref="char:EOLhyphen"/>nouncing all the Rights of Soveraignty acquired unto him by the said Treaty of <hi>Nimeguen,</hi> pro<g ref="char:EOLhyphen"/>vided that the said Duke shall be obliged to grant a free passage to the Forces of his Majesty, whenever it shall be required, apon paying what shall be agreed by the Commissioners of his Ma<g ref="char:EOLhyphen"/>jesty, and those of the said Duke.</p>
+               <p>His Majesty promises likewise to withdraw his Troops from the places of <hi>Bitch</hi> and <hi>Hombou g,</hi> after having razed the Fortifications of the same, which it shall not be free to fortify again, his Majesty reserving only the Fortress of <hi>Saar Louis,</hi> which he has fortify'd, to be possessed by him with all Rights of Soveraignty, together with the Country half a League round about the same, which shall be settled by the Commissioners ap<g ref="char:EOLhyphen"/>pointed by the King and the Duke of <hi>Lorrain</hi>
+               </p>
+               <p>His Majesty does also confirm by this present Treaty, the 16th Article of the Treaty of <hi>Ni<g ref="char:EOLhyphen"/>meguen,</hi> concerning the Recompence to be given to the Duke of <hi>Lorrain,</hi> for the Town and Pro<g ref="char:EOLhyphen"/>vostship of <hi>Longuy,</hi> as if the said Article was in<g ref="char:EOLhyphen"/>serted <hi>verbatim</hi> in these presents, and it is there<g ref="char:EOLhyphen"/>fore stipulated that the said Article shall be fully performed.</p>
+               <pb n="9" facs="tcp:33785:9"/>
+               <p>The 20, 21, and 22 Articles, touching the Ecclesiastical Benefices, the Sentences and Ar<g ref="char:EOLhyphen"/>rests given by the Judges and Officers appointed by the King; as also the Restitution of the Ar<g ref="char:EOLhyphen"/>chives and Charters of the Chamber of Ac<g ref="char:EOLhyphen"/>compts of <hi>Nancy</hi> and <hi>Barr</hi> shall be confirmed as they are in the said Treaty of <hi>Nimeguen.</hi>
+               </p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>And because his most Christian Majesty has been obliged to seize the Town of <hi>Tryers,</hi> his said Majesty promises to restore it to the Elector of that Name, immediately after the Ratification of this present Treaty.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>And whereas the most Christian King thought it necessary to fortify the Town of <hi>Montroyal,</hi> and the Castle of <hi>Traarbach,</hi> he obliges himself to de<g ref="char:EOLhyphen"/>molish the said Place of <hi>Montroyal,</hi> and the New Fortificatione made to the Castle of <hi>Traarbach,</hi> leav<g ref="char:EOLhyphen"/>ing it as it was before, and the said Places of <hi>Montr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yal</hi> and <hi>Traarbach</hi> shall be restored unto these to whom they belonged before they came into the King's hands. The same thing shall be done in relation to the places of <hi>Kirn</hi> and <hi>Eberenburg.</hi>
+               </p>
+            </div>
+            <div n="9" type="part">
+               <pb n="10" facs="tcp:33785:9"/>
+               <head>IX.</head>
+               <p>As by the fourth Article of the Treaty of <hi>Ni<g ref="char:EOLhyphen"/>meguen,</hi> his Majesty was obliged to restore <hi>Phil<g ref="char:EOLhyphen"/>lipsburg</hi> to the Emperor, with a renunciation of all the Rights and Pretensions he had on that place, his said Majesty to revive and confirm the said Treaty, promises to restore the said Town of <hi>Phillipsburg,</hi> with all its Fortifications, as it is now, except the Bridge, which was built since this War, which shall be demolish'd.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>The said Treaty of <hi>Nimeguen</hi> having settled the Conditions upon which the Most Christian King was obliged to restore the Duke of <hi>Lorrain</hi> into the possession of his State, his Majesty to corroborate the said Treaty, does hereby con<g ref="char:EOLhyphen"/>firm the 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, and 22 Articles of the said Treaty, which shall be as fully executed as if they were <hi>verbatim</hi> inserted in these presents.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>His Most Christian Majesty having fortified the place of <hi>Saar Louis,</hi> shall keep the said place as it is now, with the Country half a League about it, the limits of which extent shall be settled by Commissioners appointed by the King and the Duke of <hi>Lorrain.</hi> The said Duke shall yield unto
+<pb n="11" facs="tcp:33785:10"/> his Majesty the said Town and Country abou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> it, to be enjoy'd by his Majesty with a full Righ<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of Soveraignty and Property; and in lieu of it, his Majesty promises to give such a recompence to the said Duke, that he shall be satisfied with it, and the Place or Territories that shall be given in exchange for the said Place of <hi>Saar Louis,</hi> which shall be agreed by Commissioners appointed on both sides, shall be enjoy'd by the said Duke with a full Right of Soveraignty and Property.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <p>The Provisions, Ammunition and Ordnance, that shall be found in the places aforesaid, which are to be restored to the Emperor, or demolished, shall remain to his Most Christian Majesty.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>The Elector Palatine shall be restored to the possession of the <hi>Palatinate,</hi> as his Predecessors have enjoyed it since the Peace of <hi>Westphalia;</hi> and the Dutchess of <hi>Orleans,</hi> hir Majesty's Sister-in-law, shall be put into the possession of all the Rights, Territories and Effects belonging to her, as Heiress of the late Electors Palatine, her Fa<g ref="char:EOLhyphen"/>ther and Brother.</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIV.</head>
+               <p>The Treaty concluded between his Majesty and the Duke of <hi>Savoy</hi> in the year 1696, shall
+<pb n="12" facs="tcp:33785:10"/> be comprehended in this present Treaty of Peace, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s if it were <hi>verbatim</hi> inserted therein.</p>
+            </div>
+            <div n="15" type="part">
+               <head>XV.</head>
+               <p>The Cardinal of <hi>Furstemberg</hi> shall be restored <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nto the full possession of his Estate, Rights, Priviledges, Dignities and Prerogatives of a Prince and Member of the Empire, by reason of his Bishoprick of <hi>Strasburgh,</hi> and the Abbey <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Principality of <hi>Staveloo;</hi> and there shall be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> general oblivion of all things decreed against <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>is Person and Servants, and neither he nor they <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hall be directly or indirectly called to an account <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>or the succession of the late Elector of <hi>Cologn,</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>or upon any other pretence whatsoever.</p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI.</head>
+               <p>The Canons o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Prebends of the Chapter of <hi>Cologn,</hi> who have been deprived of that Dignity <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>or adhering to the said Cardinal of <hi>Furstemberg,</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hall be likewise comprehended in the aforesaid Indemnity, and restored unto the possession of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>heir Estate and Dignity, without any molesta<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ion whatsoever.</p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII.</head>
+               <p>And whereas the Peace of <hi>Nimeguen</hi> is to be the basis and foundation of this present Treaty, and that therefore his Majesty is willing to ob<g ref="char:EOLhyphen"/>serve and confirm the said Treaty in all its points,
+<pb n="13" facs="tcp:33785:11"/> and to all intents and purposes, in relation to the King of <hi>Spain,</hi> his Majesty consents that all things be restored as they were settled by the said Treaty of <hi>Nimeguen;</hi> renouncing hereby to the advantages acquir'd unto him by his Arms since this War: His Majesty therefore agrees to restore unto his Catholick Majesty the Town of <hi>Mons,</hi> as it is now, with all its dependencies, such as they were before it was conquer'd by his Majesty; the Town of <hi>Charleroy,</hi> as it is now, with all its dependencies; as also the Town of <hi>Courtray,</hi> upon the same condition. And to give a fuller proof of the sincerity of the intentions of his Majesty, for the intire restitution of the Treaty of <hi>Nimeguen,</hi> his said Majesty is willing to restore unto the King of <hi>Spain</hi> the Town of <hi>Aeth,</hi> notwithstanding the same was taken by his Forces since the opening of the Conferences for the Peace.</p>
+            </div>
+            <div n="18" type="part">
+               <head>XVIII.</head>
+               <p>His Majesty does likewise promise to restore unto <hi>Spain</hi> the Towns of <hi>Rose, Gironne,</hi> and <hi>Bel<g ref="char:EOLhyphen"/>var</hi> in <hi>Catalonia,</hi> in the same condition they were in when taken by his Majesties Forces.</p>
+            </div>
+            <div n="19" type="part">
+               <pb n="15" facs="tcp:33785:11"/>
+               <head>XIX.</head>
+               <p>Notwithstanding the Treaty of <hi>Nimeguen</hi> is the basis and foun<g ref="char:EOLhyphen"/>dation of this,<note place="margin">XIX. The Most Chri<g ref="char:EOLhyphen"/>stian King shall likewise restore unto his Catholick Majesty the Town of <hi>Luxemburgh</hi> in the condition it is now, with the Duchy of that Name, and the County of <hi>Chiny.</hi>
+                  </note> and that accord<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ngly the Town and Duchy of <hi>Luxemburgh,</hi> and the County of <hi>Chiny,</hi> ought to be restored by Vertue of the said Treaty to the Catholick King, yet it has been agreed to derogate from the same by the present Article; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>herefore his Catholick Majesty yields, and makes over unto his most Christian Majesty, the Town and Duchy of <hi>Luxemburgh,</hi> County of <hi>Chiny,</hi> and generally all that has been heretofore included in the said Province of <hi>Lux<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>mburgh,</hi> to be enjoyed by his Majesty with a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ull Right of Soveraignty: And in exchange of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he said Town and Duchy of <hi>Luxemburgh,</hi> the most Christian King yields, and makes over unto <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Catholick King, the Towns of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> with all the Rights of Soveraignty acquir'd unto his said Maiesty by the Treaty of <hi>Nimeguen;</hi> of which his Catholick Majesty shall enjoy with, <hi>&amp;c.</hi>
+               </p>
+               <pb n="13" facs="tcp:33785:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:33785:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div n="20" type="part">
+               <pb n="16" facs="tcp:33785:13"/>
+               <head>XX.</head>
+               <p>Whereas since the Treaty of Peace concluded at <hi>Nimeguen,</hi> several <hi>Re-Unions</hi> of Villages, Towns, <hi>&amp;c.</hi> situate in the Dominions of the King of <hi>Spain,</hi> have been made by Order of the Most Christian King, it is agreed by these presents, That all the Re-unions made since the said Treaty, shall be made void and revok'd; and that the said Villages, <hi>&amp;c.</hi> shall be restor'd to his Catholick Majesty, to enjoy the same as he did before the said Re-unions.</p>
+            </div>
+            <div n="21" type="part">
+               <head>XXI.</head>
+               <p>And whereas by the 15th Article of the Treaty of <hi>Nimeguen,</hi> it was agreed to appoint Com<g ref="char:EOLhyphen"/>missioners on both sides, to settle the Limits of the States and Dominions, which were to remain unto his most Christian Majesty, and to the King of <hi>Spain</hi> in the <hi>Netherlands,</hi> as also to agree about all other difficulties that were like to arise upon account of the Villages situate in the Dominions yield<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d unto the most Christian King; And whereas the Conferences of the said Commissio<g ref="char:EOLhyphen"/>ners were interrupted by the Wars that have happened since, it is now expressively agreed, that in execution of the 14th, 15th, and 16th Article of the Treaty of <hi>Nimeguen,</hi> Commissio<g ref="char:EOLhyphen"/>ners shall be appointed on both sides, two months after the publication of the present Treaty to settle all the difficulties contained in the said Articles.</p>
+            </div>
+            <div n="22" type="part">
+               <pb n="17" facs="tcp:33785:13"/>
+               <head>XXII.</head>
+               <p>But in case the said Commissioners cannot agree about setling the said Limits and other Points, their said most Christian and Catholick Majesties agree, by these presents, to refer it to the decision of the States General of the United <hi>Netherlands.</hi>
+               </p>
+            </div>
+            <div n="23" type="part">
+               <head>XXIII.</head>
+               <p>The Town and Castle of <hi>Dinant</hi> that have been taken by the Arms of his Majesty, before this present War, and remained in his possossion during the same, his Majesty agrees to restore it to the Bishop and Prince of <hi>Liege,</hi> upon con<g ref="char:EOLhyphen"/>dition that the new Fortifications shall be razed, and that the said Town and Castle shall be restor'd unto the said Bishop of <hi>Liege,</hi> as they were when taken by his Majesty.</p>
+            </div>
+            <div n="24" type="part">
+               <head>XXIV.</head>
+               <p>All the Provisions, Ammunition and Artillery that shall be found in the places aforesaid which are to be restored to the King of <hi>Spain,</hi> or de<g ref="char:EOLhyphen"/>molished, shall belong to his most Christian Ma<g ref="char:EOLhyphen"/>jesty.</p>
+            </div>
+            <div n="25" type="part">
+               <pb n="18" facs="tcp:33785:14"/>
+               <head>XXV.</head>
+               <p>It is agreed also, that the Duties laid upon the Countries in the possession of his Majesty, which are to be returned to the King of <hi>Spain</hi> by virtue of this Treaty, shall be levied and collected for the use of his most Christian Majesty, till the Places whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eof those Countries are depending, are actually restored; and the Arrears that shall be due at the time of that Restitution, shall be paid <hi>bona fide</hi> to the Farmers of the said Duties. It is agreed also that the Proprietaries of the Fo<g ref="char:EOLhyphen"/>rests that have been confiscated in the dependen<g ref="char:EOLhyphen"/>cies of the Places to be restored by this presen<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Treaty, shall be re-establish'd into the possession of the same, and of all the Timber that shall be found upon the spot. It being also stipulated that after signing of t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is said Treaty, it shall not b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> lawful on neither side, to destroy the said For<g ref="char:EOLunhyphen"/>rests nor fell any Trees.</p>
+            </div>
+            <div n="26" type="part">
+               <head>XXIV.</head>
+               <p>All Papers, Letters and Documents, concern<g ref="char:EOLunhyphen"/>ing the Countries, Lands and Lordships, whic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> are to be yielded or restored by this present Trea<g ref="char:EOLunhyphen"/>ty of Peace, shall be <hi>bona fide</hi> delivered on bot<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> sides three months after the exchanging of th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Ratifications of this present Treaty, in wha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> place soever those Papers and Documents ma<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> be found.</p>
+            </div>
+            <div n="27" type="part">
+               <pb n="19" facs="tcp:33785:14"/>
+               <head>XXVII.</head>
+               <p>All the Subjects on both sides, either Ecclesi<g ref="char:EOLhyphen"/>astical or Secular, shall be restored unto the pos<g ref="char:EOLhyphen"/>session of the Honours, Dignities, or Benefices they were in possession of before this present War, as also of their Real and personal Estates, that have been confiscated upon account of this War; but they shall not be admitted to make any demands, or pretend any satisfaction or recompence for the Revenue of their said Estate during this present War.</p>
+            </div>
+            <div n="28" type="part">
+               <head>XXVIII. XXIX</head>
+               <p>These two Articles, which are the 24th and 25th in the Treaty of <hi>Nimeguen,</hi> concerning the Ecclesiastical Benefices being common to all Teachers shall be likewise observed; and there<g ref="char:EOLhyphen"/>fore those upon whom any Ecclesiastical Dignity or other <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>efice has been conferred since this present War, shall be confirmed in the possession of the same.</p>
+            </div>
+            <div n="29" type="part">
+               <head>XXX.</head>
+               <p>The Catholick King shall restore to the Duke of <hi>Parma</hi> the Fort and Island of <hi>Ponza,</hi> which he has taken from the said Prince during this pre<g ref="char:EOLhyphen"/>sent War.</p>
+            </div>
+            <div n="30" type="part">
+               <pb n="20" facs="tcp:33785:15"/>
+               <head>XXXI.</head>
+               <p>And whereas by this present Treaty, a good, firm, and inviolable Peace is established between his Most Christian Majesty and the Catholick King, and the Lords States General of the <hi>Uni<g ref="char:EOLhyphen"/>ted Netherlands,</hi> both by Sea and Land, through all their Kingdoms, Territories and Dominions; and that all acts of Hostility are to cease for the future, it is stipulated by this present Treaty, that all Prizes that shall be made on either side in the <hi>Baltick</hi> Sea, and the Northern Ocean from <hi>Newfoundland</hi> to the <hi>English</hi> Channel, from and after four weeks since the publication of this Peace; and from the Channel to the Cape of <hi>St. Vincent</hi> six weeks after the same; from the said Cape into the <hi>Mediterranean,</hi> and to the Line, ten weeks after; and beyond the Line in all parts of the World, eight months after the said Peace is published, the said Prizes, taken after the space of time aforesaid, shall be allow'd void, and re<g ref="char:EOLhyphen"/>turn to the true owners on either side, as also a full satisfaction for the damages and losses sustain<g ref="char:EOLhyphen"/>ed thereby.</p>
+            </div>
+            <div n="31" type="part">
+               <head>XXXII.</head>
+               <p>If any Place, Country or Collony, have been possessed by the Arms of his Most Christian Ma<g ref="char:EOLhyphen"/>jesty upon the Coast of <hi>Africa,</hi> and of the <hi>East</hi> and <hi>West Indies,</hi> or if the States General have ta<g ref="char:EOLhyphen"/>ken any Place, Collony, or Country belonging
+<pb n="21" facs="tcp:33785:15"/> to his most Christian Majesty, those Conquests shall be restored on both sides, in the same Con<g ref="char:EOLhyphen"/>dition they were in before this War.</p>
+            </div>
+            <div n="32" type="part">
+               <head>XXXIII.</head>
+               <p>All Prisoners of War taken by the Troops of the Emperor and of his Allies, and by those of his most Christian Majesty, and are still detain<g ref="char:EOLhyphen"/>ed, shall be released without any ransom, after the exchange of the Ratifications.</p>
+            </div>
+            <div n="33" type="part">
+               <head>XXXIV.</head>
+               <p>And whereas their Majesties, and the Lords States General, do acknowledge the good Of<g ref="char:EOLhyphen"/>fices and Care the most serene King of <hi>Sweden</hi> has <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mployed to procure the Peace and publick Tran<g ref="char:EOLhyphen"/>quility, it is mutually agreed, that his <hi>Swedish</hi> Majesty, his Kingdoms and States, be especially, and by Name, comprehended in this present Treaty, in the best form and manner that the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ame may be done.</p>
+            </div>
+            <div n="34" type="part">
+               <head>XXXV.</head>
+               <p>All such who shall be named by common con<g ref="char:EOLhyphen"/>sent of the Parties, before, or within six months after the Ratifications of the Treaty are exchang<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d, shall be cemprehended in this present Treaty.</p>
+            </div>
+            <div n="35" type="part">
+               <pb n="22" facs="tcp:33785:16"/>
+               <head>XXXVI.</head>
+               <p>Their said Majesties, and the Lords, State General consent, that his <hi>Swedish</hi> Majesty as Me<g ref="char:EOLhyphen"/>diator, and all the Kings, Princes, and Repub<g ref="char:EOLunhyphen"/>licks, give their Guarantee to their said Majestie<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and States General, for the execution of all and every particular Article contained in this presen<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Treaty.</p>
+            </div>
+            <div n="36" type="part">
+               <head>XXXVII.</head>
+               <p>There's a Liberty left and reserved to ad<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> some other Articles, in case of any omission, i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> relation to the general Affairs, or upon accoun<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of some private Pretensions to be settled in thi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> general Peace.</p>
+            </div>
+            <closer>
+               <dateline>
+                  <hi>Delivered to his Excellency the Mediator,</hi>
+                  <date>July 20 1697.</date>
+               </dateline>
+               <signed>
+                  <hi>Signed</hi>
+                  <list>
+                     <item>DE HARLAY BONNEUIL. [L. S.]</item>
+                     <item>DE CAILLIERES. [L. S]</item>
+                     <item>VERJUS DE CRECY [L. S.]</item>
+                     <item>
+                        <hi>Concordare vidi</hi> LILLIENROOT.</item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:33785:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
